@@ -50,3 +50,69 @@ body{
     margin-bottom: -22px;
 
 }
+
+/* Featured flower section related styles */
+
+.featured-section-container{
+    height: 100vh;
+    padding: 200px;
+}
+.featured-flower-container{
+    margin-top: 70px;
+    display: flex;
+    gap: 20px;
+}
+
+.featured-flower-heading{
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.featured-flower-description{
+  color: rgba(39, 39, 39, 0.60);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 594px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.featured-flower-column{
+  width: 464px;
+  height: 538px;
+  text-align: center;
+}
+.featured-flower-column li{
+list-style-type: none;
+text-decoration: underline;
+color: #272727;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+margin-top: 20px;
+}
+
+.featured-flower-img{
+    width: 464px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+#bg-2{
+    background: rgba(5, 151, 160, 0.15);
+}
+
+#bg-3{
+    background: rgba(71, 125, 17, 0.15);
+}
+.flower-img{
+    width: 310px;
+    height: 428px;
+}
