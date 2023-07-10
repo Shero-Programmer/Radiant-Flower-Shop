@@ -126,11 +126,22 @@ margin-top: 40px;
     background: rgba(39, 39, 39, 0.05);
 }
 
-.service-section-container{
+.service-container{
+    height: 320px;
     display: flex;
+    gap: 100px;
+    margin: auto;
+    align-items: center;
+    text-align: center;
 }
-
-
+.service-text{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 35px;
+    margin-top: 10px;
+}
 /* This is client's testimonial section styles */
 
 .testimonial-section{
@@ -214,6 +225,9 @@ margin-top: 40px;
    font-size: 40px;
    font-weight: 800;
    margin-bottom: 24px;
+}
+.highlight{
+    color: #E55473 ;
 }
 .deal-description{
     color: rgba(39, 39, 39, 0.60);
