@@ -116,3 +116,116 @@ margin-top: 20px;
     width: 310px;
     height: 428px;
 }
+
+
+/* Service section related styles */
+
+.service-section{
+    display: flex;
+    width: 76%;
+    height: 320px;
+    margin-left: 200px;
+    margin-top: 150px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.service-section-container{
+    display: flex;
+}
+
+
+/* This is client's testimonial section styles */
+
+.testimonial-section{
+    margin-top: 100px;
+}
+.section-title{
+    margin-bottom: 70px;
+}
+
+.client-img{
+    width: 200px;
+    height: 200px;
+    margin: 10px 0;
+}
+
+
+.review-1{
+    padding: 10px 20px;
+    width: 380px;
+    height: 500px;
+    background-color: rgba(71, 125, 17, 0.15);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #E55473;
+}
+
+.quote{
+    font-size: 70px;
+    margin-left: -300px;
+    color: #E55473;
+}
+
+.review-text{
+    margin-top: -30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+.star{
+    font-size: 1.3rem;
+     margin: 15px 0;
+}
+
+.client-name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+}
+
+.review-container{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 120px;
+}
+
+.review-2{
+    background-color: rgba(167, 33, 98, 0.15);
+}
+.review-3{
+    background-color: rgba(5, 151, 160, 0.15);
+
+
+}
+
+
+/* Deal section related styles */
+
+.deal-container{
+    margin-top: 100px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    height: 620px;
+    align-items: center;
+
+}
+
+.deal-title{
+   color: #272727;
+   font-size: 40px;
+   font-weight: 800;
+   margin-bottom: 24px;
+}
+.deal-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 595px;
+}
+
+.deal-text{
+text-align: center;
+}
