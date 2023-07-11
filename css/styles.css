@@ -59,10 +59,10 @@ body{
     padding: 200px;
 }
 .featured-flower-container{
-    margin-top: 70px;
+    
     width: 1440px;
+    margin: 70px auto;
     display: flex;
-    justify-content: center;
     gap: 20px;
 }
 
@@ -124,8 +124,7 @@ margin-top: 40px;
     display: flex;
     width: 1440px;
     height: 320px;
-    margin-left: 200px;
-    margin-top: 150px;
+    margin: 150px auto;
     background: rgba(39, 39, 39, 0.05);
 }
 
