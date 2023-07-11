@@ -149,7 +149,7 @@ margin-top: 40px;
 .testimonial-section{
     width: 1440px;
     margin: -50px auto 100px;
-    background-color: #D8D9CF;
+    background-color: rgba(159, 201, 243, 0.3);
     height: 80vh;
     
     
@@ -268,6 +268,7 @@ margin-top: 40px;
 .instagram-text{
     text-align: center;
     margin-top: 100px;
+    background: #FFF;
 }
 
 .instagram-title{
@@ -287,9 +288,11 @@ margin-top: 40px;
 }
 
 .instagram-img-container{
-    margin: 50px 200px;
+    width: 1140px;
+    margin: 50px 240px;
     display: flex;
-    justify-content: space-around;
+    gap: 15px;
+
 }
 
 
