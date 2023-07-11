@@ -291,7 +291,7 @@ margin-top: 40px;
     width: 1140px;
     margin: 50px 240px;
     display: flex;
-    gap: 15px;
+    gap: 20px;
 
 }
 
@@ -299,9 +299,9 @@ margin-top: 40px;
 /* Subscribe section related styles */
 
 .subscribe-container{
-    width: 1430px;
+    width: 1440px;
     height: 450px;
-    margin: 100px 220px;
+    margin: 100px auto;
     text-align: center;
     background-image: url("../images/Rectangle\ 9.png");
     background-repeat: no-repeat;
