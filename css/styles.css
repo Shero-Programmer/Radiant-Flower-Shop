@@ -60,7 +60,9 @@ body{
 }
 .featured-flower-container{
     margin-top: 70px;
+    width: 1440px;
     display: flex;
+    justify-content: center;
     gap: 20px;
 }
 
@@ -120,7 +122,7 @@ margin-top: 40px;
 
 .service-section{
     display: flex;
-    width: 76%;
+    width: 1440px;
     height: 320px;
     margin-left: 200px;
     margin-top: 150px;
